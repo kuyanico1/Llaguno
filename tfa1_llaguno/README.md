@@ -33,13 +33,13 @@ TFA1 is a basic four-page Point-of-Sale website created with CodeIgniter 4. The 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/kuyanico1/Nico-Llaguno---TC32.git
+   git clone https://github.com/kuyanico1/Llaguno.git
    ```
 
 2. Open the TFA1 directory:
 
    ```bash
-   cd Nico-Llaguno---TC32/tfa1_llaguno
+   cd Llaguno/tfa1_llaguno
    ```
 
 3. Install the required Composer dependencies:
@@ -66,5 +66,5 @@ TFA1 is a basic four-page Point-of-Sale website created with CodeIgniter 4. The 
 
 ## Project Links
 
-- **Repository:** [TFA1 source code](https://github.com/kuyanico1/Nico-Llaguno---TC32/tree/main/tfa1_llaguno)
+- **Repository:** [TFA1 source code](https://github.com/kuyanico1/Llaguno/tree/main/tfa1_llaguno)
 - **Hosted Website:** [Open the TFA1 website](https://nico-llaguno.rf.gd/public/index.php)
