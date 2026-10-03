@@ -35,13 +35,13 @@ TFA2 extends the account-record application from TFA1 by replacing temporary PHP
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/kuyanico1/Nico-Llaguno---TC32.git
+   git clone https://github.com/kuyanico1/Llaguno.git
    ```
 
 2. Open the TFA2 directory:
 
    ```bash
-   cd Nico-Llaguno---TC32/tfa2_llaguno
+   cd Llaguno/tfa2_llaguno
    ```
 
 3. Install the required Composer dependencies:
@@ -87,5 +87,5 @@ For hosted deployment, create the database through the hosting control panel and
 
 ## Project Links
 
-- **Repository:** [TFA2 source code](https://github.com/kuyanico1/Nico-Llaguno---TC32/tree/main/tfa2_llaguno)
+- **Repository:** [TFA2 source code](https://github.com/kuyanico1/Llaguno/tree/main/tfa2_llaguno)
 - **Hosted Website:** [Open the TFA2 website](https://nico-llaguno2.rf.gd/index.php/users)
