@@ -19,3 +19,14 @@ The projects in this repository are student activities developed while learning 
 | --- | --- | --- | --- |
 | TFA1 | From Zero to Four Pages: Your First CodeIgniter Application | [View repository](https://github.com/kuyanico1/Llaguno/tree/main/tfa1_llaguno) | [Open website](https://nico-llaguno.rf.gd/public/index.php) |
 | TFA2 | From Arrays to a Real Database | [View repository](https://github.com/kuyanico1/Llaguno/tree/main/tfa2_llaguno) | [Open website](https://nico-llaguno2.rf.gd/index.php/users) |
+| TSA1 | Tasks for Today Management System | [View repository](https://github.com/kuyanico1/Llaguno/tree/main/tsa1_llaguno) | [Open website](https://tsa-llaguno.ifree.page/) |
+
+## Repository Structure
+
+```text
+Llaguno/
+|-- tfa1_llaguno/
+|-- tfa2_llaguno/
+|-- tsa1_llaguno/
+`-- README.md
+```
