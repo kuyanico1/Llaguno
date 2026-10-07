@@ -225,7 +225,7 @@ You can also run PHP syntax checks over files in `app` before submission.
 ## Repository and Hosted Application
 
 - GitHub repository: [TSA1 source code](https://github.com/kuyanico1/Llaguno/tree/main/tsa1_llaguno)
-- Hosted application: Not yet published
+- Hosted application: [Open the TSA1 website](https://tsa-llaguno.ifree.page/)
 
 Add the hosted application URL only after the deployed pages and database connection have been verified.
 
